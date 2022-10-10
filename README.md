@@ -4,6 +4,7 @@ Three examples progressing from low cohesion, high coupling (`cc1.py`) through a
 
 ## Prerequisites
 
+Required Python version: >= 3.7
 ### Get the code:
 
 `git clone https://github.com/eznuk/coupling_cohesion.git`
