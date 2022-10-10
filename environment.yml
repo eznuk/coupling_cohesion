@@ -1,0 +1,6 @@
+name: cc
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
