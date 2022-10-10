@@ -11,7 +11,17 @@ Three examples progressing from low cohesion, high coupling (`cc1.py`) through a
 ### Install the dependencies:
 
 #### pip
+Optionally create a new [venv](https://docs.python.org/3/library/venv.html):
+
+`python -m venv venv`
+
+`source venv/bin/activate`
+
+Install dependencies:
+
 `pip install -r requirements.txt`
 
 #### Anaconda
 `conda env create -f environment.yml`
+
+`conda activate cc`
