@@ -13,7 +13,7 @@ Three examples progressing from low cohesion, high coupling (`cc1.py`) through a
 #### pip
 Optionally create a new [venv](https://docs.python.org/3/library/venv.html):
 
-`python -m venv venv`
+`python3 -m venv venv`
 
 `source venv/bin/activate`
 
